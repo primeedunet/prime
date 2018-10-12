@@ -49,7 +49,7 @@ namespace SendGoMessages
             try
             {
                 string id = "primeedunet";   //보내고 아이디
-                string pass = "vmfkdla1126"; //보내고 패스워드
+                string pass = "vmfkdla1126"; //보내고 패스워드2
 
                 StringBuilder sb = new StringBuilder();
                 sb.Append(string.Format("remote_id={0}", id));
